@@ -16,7 +16,7 @@ My name is Odeh Sbeih and I'm a Developer, from Palestine 🇵🇸
 
 <p align="left">
 ✨ Creating bugs since 2024 <br>
-📚 I'm currently learning Full Stack JavaScript (React, Express.js, MonogoDb, Node.js) <br>
+📚 I'm currently learning Full Stack JavaScript (React, Express.js, Node.js) <br>
 🎯 Goals: Become a Full Stack / Backend Developer and build real-world applications <br>
 🎲 Fun fact: I fix bugs by creating new ones 😄
 </p>
